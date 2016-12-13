@@ -17,7 +17,6 @@
 
 <div>
     <p>Hello</p>
-
 </div>
 <p></p>
 
@@ -26,6 +25,6 @@
     var position = p.position();
     $( "p:last" ).text( "left: " + position.left + ", top: " + position.top );
 </script>
-echo "test working";
+
 </body>
 </html>
