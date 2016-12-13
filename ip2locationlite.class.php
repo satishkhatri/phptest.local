@@ -57,4 +57,6 @@ final class ip2location_lite{
 		return;
 	}
 }
+
+echo "test working";
 ?>
