@@ -27,5 +27,7 @@
     $( "p:last" ).text( "left: " + position.left + ", top: " + position.top );
 </script>
 echo "test working";
+</script>g
+
 </body>
 </html>
